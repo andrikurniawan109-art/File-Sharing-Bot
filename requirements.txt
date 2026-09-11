@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-pyrogram
+https://github.com/Kuriyama-Mirai/Pyrogram/archive/dev.zip
 TgCrypto
 pyromod==1.5
 python-dotenv
